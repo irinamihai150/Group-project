@@ -56,6 +56,13 @@ h2 {
     color: white;
     text-align: center;
 }
+p{
+
+    text-align: start;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
 h3 {
     color:white;
     text-align: center;

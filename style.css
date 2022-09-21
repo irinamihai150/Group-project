@@ -71,9 +71,11 @@ p {
     opacity:0.8;
     border-radius: 2em;
     justify-content: center;
+    float: left;
     padding:20px;
     width:35%;
 }
+
 
 button {
     margin-top: 24px;

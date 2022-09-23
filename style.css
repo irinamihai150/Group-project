@@ -42,13 +42,13 @@ header {
 
 
 .navbar a:hover {
-    color: #c05326;
+    color: #3c741b;
 }
 
 .navbar a {
     text-decoration: none;
     color: whitesmoke;
-    width: 25%;
+    width: 20%;
     text-align: center;
     border-style: solid;
     border-width: 1px;
@@ -57,9 +57,9 @@ header {
     padding: 15px;
 }
 h1 {
-    font-weight: lighter;
+    /* font-weight: lighter; */
     font-size: 5rem;
-    margin: 0;
+    margin: 1em;
     padding: 0;
     color: white;
     text-align:center;
@@ -68,6 +68,7 @@ h2 {
     color: white;
     font-size: 2rem;
     text-align: center;
+    margin:1em;
 }
 p{
 
@@ -87,25 +88,25 @@ p {
     border: 3px solid black;
     box-shadow: 10px 10px 10px  5px black;
     background-color:rgb(134, 125, 125);
-    background: linear-gradient(gray,blue);
+    background: linear-gradient(gray,rgb(47, 131, 51));
     opacity:0.8;
     border-radius: 2em;
     justify-content: center;
     float: left;
-    padding:20px;
+    padding:15px;
     width:35%;
 }
 
 
 
-button {
+/* button {
     margin-top: 24px;
     width: 150px;
     height: 50px;
     background-color: #c05326;
     border-radius: 6%;
     text-align: center;
-}
+} */
 
 .icons {
     display: flex;

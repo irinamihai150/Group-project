@@ -52,7 +52,7 @@ header {
 
 .navbar a {
     text-decoration: none;
-    color: whitesmoke;
+    color: black;
     width: 10%;
     text-align: center;
     border-style: solid;
@@ -66,11 +66,11 @@ h1 {
     font-size: 5rem;
     margin: 1em;
     padding: 0;
-    color: white;
+    color: black;
     text-align:center;
 }
 h2 {
-    color: white;
+    color:black;
     font-size: 2rem;
     text-align: center;
     margin:1em;
@@ -83,17 +83,17 @@ p{
 }
 
 h3 {
-    color:white;
+    color:black;
     text-align: center;
 }
 p {
-    color: white;
+    color:black;
 }
 .statistic-section {
     border: 3px solid black;
     box-shadow: 10px 10px 10px  5px black;
     background-color:rgb(134, 125, 125);
-    background: linear-gradient(gray,rgb(47, 131, 51));
+    background: linear-gradient(gray,rgb(60, 99, 62));
     opacity:0.8;
     border-radius: 2em;
     justify-content: center;
@@ -101,22 +101,9 @@ p {
     padding:15px;
     width:35%;
     margin: 5em;
-    /* height:35em; */
+    height:35em;
 
 }
-
-
-
-
-
-/* button {
-    margin-top: 24px;
-    width: 150px;
-    height: 50px;
-    background-color: #c05326;
-    border-radius: 6%;
-    text-align: center;
-} */
 
 .icons {
     display: flex;

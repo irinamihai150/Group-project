@@ -43,8 +43,6 @@ header {
 
 }
 
-
-
 .navbar a:hover {
     color: #3c741b;
 }
@@ -74,6 +72,7 @@ h2 {
     font-size: 2rem;
     text-align: center;
     margin:1em;
+   
 }
 p{
 

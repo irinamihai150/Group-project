@@ -131,7 +131,7 @@ p {
      justify-content: center;
      float: right;
      padding: 15px;
-     width: 35%;
+     width: fit-content;
      margin: 5em;
      height: fit-content;
 

@@ -105,6 +105,38 @@ p {
 
 }
 
+.statistic-section-info1 {
+     border: 3px solid black;
+     box-shadow: 10px 10px 10px 5px black;
+     background-color: rgb(134, 125, 125);
+     background: linear-gradient(gray, rgb(60, 99, 62));
+     opacity: 0.8;
+     border-radius: 2em;
+     justify-content: center;
+     float: left;
+     padding: 15px;
+     width: fit-content;
+     margin: 5em;
+     height: fit-content;
+
+ }
+
+ .statistic-section-info2 {
+     border: 3px solid black;
+     box-shadow: 10px 10px 10px 5px black;
+     background-color: rgb(134, 125, 125);
+     background: linear-gradient(gray, rgb(60, 99, 62));
+     opacity: 0.8;
+     border-radius: 2em;
+     justify-content: center;
+     float: right;
+     padding: 15px;
+     width: 35%;
+     margin: 5em;
+     height: fit-content;
+
+ }
+
 .icons {
     display: flex;
 }
